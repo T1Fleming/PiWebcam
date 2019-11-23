@@ -10,3 +10,5 @@ start -config ./ngrok.yml app1 app2
 [Render HTML in Express](https://codeforgeek.com/render-html-file-expressjs/)
 
 [Run Terminal Process in Background](https://askubuntu.com/questions/106351/running-programs-in-the-background-from-terminal)
+
+[Run Node in Background](https://github.com/remy/nodemon/issues/296)
